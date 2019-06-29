@@ -1,10 +1,10 @@
+#!/usr/bin/env python
 import sys
-from _ctypes_test import func
-
+from playsound import playsound
 import pandas as pd
 import textwrap
 
-# initializes the items and description DataFrames
+# initializes the items and description DataFrames, along with his voice
 items = pd.read_csv('data/items.csv')
 items = items.drop(columns='Description')
 descriptions = pd.read_csv('data/descriptions.csv')
@@ -46,6 +46,7 @@ print('                                                                         
 print('                                         Insert a coin?                             ')
 print('                                           yes / no')
 print('------------------------------------------------------------------------------------------------------')
+playsound("sounds/figisintro.wav")
 
 # I am bad at using input()
 yes = 'yes'
@@ -59,6 +60,7 @@ try:
         print('------------------------------------------------------------------------------------------------------')
         print('Figis: Oh wait, what class are you again? (Example: I am Figis and my class is a: "Robot")')
         print('------------------------------------------------------------------------------------------------------')
+        playsound("sounds/figisclass.wav")
 
         # Oh yea still bad at it
         Fighter = 'Fighter'
@@ -92,6 +94,7 @@ try:
             print('------------------------------------------------------------------------------------------------------')
             print('You probably entered your class in wrong. You fat fingered troll!')
             print('------------------------------------------------------------------------------------------------------')
+            playsound("sounds/figiswrong1.wav")
             sys.exit(1)
 
         # selecting the various features of the randomly chosen item
@@ -111,7 +114,7 @@ try:
         print('                              And much to your surprise!                     ')
         print("                              Congradlation, its an 'ol                      ")
         print('------------------------------------------------------------------------------------------------------')
-        print(item_name + '                               ')
+        print('Item name: ' + item_name + '                               ')
         print('------------------------------------------------------------------------------------------------------')
         print('This ' + item_type +  ' is a...')
         print('\n'.join(textwrap.wrap(item_description, 100, break_long_words=False)))
@@ -119,13 +122,17 @@ try:
         print('')
         print('')
         print('\n'.join(textwrap.wrap(disclaimer, 100, break_long_words=False)))
+        playsound("sounds/figisfin.wav")
 
     else:
         print('------------------------------------------------------------------------------------------------------')
         print("Figis: Huh, probably don't even have any coins, do you? Buzz off!")
         print('------------------------------------------------------------------------------------------------------')
+        playsound("sounds/figisbuzz.wav")
+        sys.exit(1)
 except:
     print('------------------------------------------------------------------------------------------------------')
     print("Siiiigh, lets try that again one more time shall we?")
+    playsound("sounds/figissigh.wav")
     sys.exit(1)
 
