@@ -1,0 +1,252 @@
+Class,Index,Item,Description
+Ranger,1,Whisper of the Noose,a2
+Ranger,2,Very Cross Bow,a4
+Ranger,3,Greased Lightning,a6
+Ranger,4,The Rose Tinted Spectacles,a9
+Ranger,5,Ring of the Phoenix,a10
+Ranger,6,Railsplitter,a11
+Ranger,7,Ring of Frost,a12
+Ranger,8,Fletcher's Mitt,a14
+Ranger,9,Cloak of the Manta Ray,a16
+Ranger,10,Feather Weight Curiass,a20
+Ranger,11,Hole Thrower,a21
+Ranger,12,Band of Projected Thought,a22
+Ranger,13,Lucky Egg,a8
+Ranger,14,Jackrabbit's Speedy Socks,a29
+Ranger,15,Gustmaster 5000,a15
+Ranger,16,Crest of Foresight,a42
+Ranger,17,Sword of the Wind,a26
+Ranger,18,Needler,a25
+Ranger,19,Ring of the Giant Slayer,a24
+Ranger,20,Broom of Flying,a23
+Cleric,1,Ring of the Phoenix,a10
+Cleric,2,True Heart Clasp,a13
+Cleric,3,Physician's Pendant,a18
+Cleric,4,Awareness Frames,a19
+Cleric,5,Demon Eye Amulet,a28
+Cleric,6,Jack Rabbit's Speedy Socks,a29
+Cleric,7,Holy Hand Grenade,a38
+Cleric,8,Bags of Transferrence,a32
+Cleric,9,Broom of Flying,a23
+Cleric,10,Grasps of Spell Saving,a39
+Cleric,11,Lucky Egg,a8
+Cleric,12,Defender's Dial,a17
+Cleric,13,Port Wand of Duality,a34
+Cleric,14,Band of Projected Thought,a22
+Cleric,15,Brooch of Po'eur,a41
+Cleric,16,Shared Pouches of Transfer,a33
+Cleric,17,The Rose Tinted Spectacles,a9
+Cleric,18,Forked Tongue,a3
+Cleric,19,Cloak of the Manta Ray,a16
+Cleric,20,Ring of Peerless Majyks,a35
+Cleric,20,Ring of Peerless Majyks,a35
+Cleric,20,Ring of Peerless Majyks,a35
+Bard,1,Buffoon's Pantaloons,a5
+Bard,2,Phandalin Mandolin,a7
+Bard,3,Coat of the Duelist,a27
+Bard,4,Defender's Dial,a17
+Bard,5,Lucky Egg,a8
+Bard,6,Very-Cross Bow,a4
+Bard,7,Physician's Pendant,a18
+Bard,8,Awareness Frames,a19
+Bard,9,Ring of Peerless Majyks,a35
+Bard,10,Demon Eye Amulet,a28
+Bard,11,Forked Tongue,a3
+Bard,12,Ring of Frost,a12
+Bard,13,Jackrabbit's Speedy Socks,a29
+Bard,14,Grasps of Spell Saving,a39
+Bard,15,Shared Pouches of Transfer,a33
+Bard,16,Broom of Flying,a23
+Bard,17,Hole Thrower,a21
+Bard,18,Ring of the Phoenix,a10
+Bard,19,Soup Spoon of Impropability,a37
+Bard,20,Bags of Transferrence,a32
+Bard,20,Bags of Transferrence,a32
+Rogue,1,Sword of the Wind,a26
+Rogue,2,Phase Destabilisation Caltrops,a30
+Rogue,3,Forked Tongue,a3
+Rogue,4,Needler,a25
+Rogue,5,Coat of the Duelist,a27
+Rogue,6,Defender's Dial,a17
+Rogue,7,Ring of the Phoenix,a10
+Rogue,8,Feather Weight Curiass,a20
+Rogue,9,Pickpocket's Peerless Grasps,a36
+Rogue,10,Lucky Egg,a8
+Rogue,11,Port Wand of Duality,a34
+Rogue,12,Midnight Candle,a31
+Rogue,13,Awareness Frames,a19
+Rogue,14,Ring of the Giant Slayer,a24
+Rogue,15,Bags of Transferrence,a32
+Rogue,16,Shared Pouches of Transfer,a33
+Rogue,17,Cloak of the Manta Ray,a16
+Rogue,18,Railsplitter,a11
+Rogue,19,Broom of Flying,a23
+Rogue,20,Greased Lightning,a6
+Rogue,20,Greased Lightning,a6
+Wizard,1,Cloak of the Manta Ray,a16
+Wizard,2,Hole Thrower,a21
+Wizard,3,Ring of Frost,a12
+Wizard,4,Bags of Transferrence,a32
+Wizard,5,Band of Projected Thought,a22
+Wizard,6,Gustmaster 5000,a15
+Wizard,7,Ring of Sweet Flips,a40
+Wizard,8,Awareness Frames,a19
+Wizard,9,Midnight Candle,a31
+Wizard,10,Ring of Peerless Majyks,a35
+Wizard,11,The Rose Tinted Spectacles,a9
+Wizard,12,Jackrabbit's Speedy Socks,a29
+Wizard,13,Brooch of Po'eur,a41
+Wizard,14,Broom of Flying,a23
+Wizard,15,Grasps of Spell Saving,a39
+Wizard,16,Shared Pouches of Transfer,a33
+Wizard,17,Ring of the Phoenix,a10
+Wizard,18,Pickpocket's Peerless Grasps,a36
+Wizard,19,Port Wand of Duality,a34
+Wizard,20,Lucky Egg,a8
+Paladin,1,Awareness Frames,a19
+Paladin,2,Broom of Flying,a23
+Paladin,3,Sword of the Wind,a26
+Paladin,4,Ring of the Phoenix,a10
+Paladin,5,Feather Weight Curiass,a20
+Paladin,6,Lucky Egg,a8
+Paladin,7,Defender's Dial,a17
+Paladin,8,Ring of the Giant Slayer,a24
+Paladin,9,Needler,a25
+Paladin,10,Railsplitter,a11
+Paladin,11,Fletcher's Mitt,a14
+Paladin,12,Grasps of Spell Saving,a39
+Paladin,13,Ring of Peerless Majyks,a35
+Paladin,14,The Rose Tinted Spectacles,a9
+Paladin,15,Forked Tongue,a3
+Paladin,16,Greased Lightning,a6
+Paladin,17,Holy Hand Grenade,a38
+Paladin,18,Band of Projected Thought,a22
+Paladin,19,Demon Eye Amulet,a28
+Paladin,20,True Heart Clasp,a13
+Paladin,19,Demon Eye Amulet,a28
+Paladin,20,True Heart Clasp,a13
+Barbarian,1,Jackrabbit's Speedy Socks,a29
+Barbarian,2,Ring of Sweet Flips,a40
+Barbarian,3,Feather Weight Curiass,a20
+Barbarian,4,Ring of the Phoenix,a10
+Barbarian,5,Greased Lightning,a6
+Barbarian,6,Lucky Egg,a8
+Barbarian,7,Demon Eye Amulet,a28
+Barbarian,8,Buffoon's Pantaloons,a5
+Barbarian,9,Awareness Frames,a19
+Barbarian,10,Needler,a25
+Barbarian,11,Fletcher's Mitt,a14
+Barbarian,12,Proficiency Vestments,a43
+Barbarian,13,Soup Spoon of Impropability,a37
+Barbarian,14,Forked Tongue,a3
+Barbarian,15,Crest of Foresight,a42
+Barbarian,16,Very Cross Bow,a4
+Barbarian,17,Sword of the Wind,a26
+Barbarian,18,Broom of Flying,a23
+Barbarian,19,Railsplitter,a11
+Barbarian,20,Coat of the Duelist,a27
+Druid,1,True Heart Clasp,a13
+Druid,2,Gustmaster 5000,a15
+Druid,3,Cloak of the Manta Ray,a16
+Druid,4,Proficiency Vestments,a43
+Druid,5,Midnight Candle,a31
+Druid,6,Physician's Pendant,a18
+Druid,7,Lucky Egg,a8
+Druid,8,The Rose Tinted Spectacles,a9
+Druid,9,Holy Hand Grenade,a38
+Druid,10,Ring of the Phoenix,a10
+Druid,11,Broom of Flying,a23
+Druid,12,Ring of Frost,a12
+Druid,13,Grasps of Spell Saving,a39
+Druid,14,Fletcher's Mitt,a14
+Druid,15,Sword of the Wind,a26
+Druid,16,Needler,a25
+Druid,17,Ring of Peerless Majyks,a35
+Druid,18,Jackrabbit's Speedy Socks,a29
+Druid,19,Awareness Frames,a19
+Druid,20,Feather Weight Curiass,a20
+Druid,19,Awareness Frames,a19
+Druid,20,Feather Weight Curiass,a20
+Monk,1,Demon Eye Amulet,a28
+Monk,2,Awareness Frames,a19
+Monk,3,Midnight Candle,a31
+Monk,4,Broom of Flying,a23
+Monk,5,Ring of the Phoenix,a10
+Monk,6,Defender's Dial,a17
+Monk,7,True Heart Clasp,a13
+Monk,8,Coat of the Duelist,a27
+Monk,9,Jackrabbit's Speedy Socks,a29
+Monk,10,Band of Projected Thought,a22
+Monk,11,Crest of Foresight,a42
+Monk,12,Fletcher's Mitt,a14
+Monk,13,Lucky Egg,a8
+Monk,14,Gustmaster 5000,a15
+Monk,15,Ring of the Giant Slayer,a24
+Monk,16,Buffoon's Pantaloons,a5
+Monk,17,Pickpocket's Peerless Grasps,a36
+Monk,18,Ring of Sweet Flips,a40
+Monk,19,Phase Destabilisation Caltrops,a30
+Monk,20,Proficiency Vestments,a43
+Fighter,1,Awareness Frames,a19
+Fighter,2,Ring of Sweet Flips,a40
+Fighter,3,Ring of the Phoenix,a10
+Fighter,4,Crest of Foresight,a42
+Fighter,5,Demon Eye Amulet,a28
+Fighter,6,Needler,a25
+Fighter,7,Jackrabbit's Speedy Socks,a29
+Fighter,8,Very Cross Bow,a4
+Fighter,9,Feather Weight Curiass,a20
+Fighter,10,Proficiency Vestments,a43
+Fighter,11,Sword of the Wind,a26
+Fighter,12,Pickpocket's Peerless Grasps,a36
+Fighter,13,Defender's Dial,a17
+Fighter,14,Ring of the Giant Slayer,a24
+Fighter,15,Buffoon's Pantaloons,a5
+Fighter,16,Broom of Flying,a23
+Fighter,17,Lucky Egg,a8
+Fighter,18,Greased Lightning,a6
+Fighter,19,Railsplitter,a11
+Fighter,20,Fletcher's Mitt,a14
+Fighter,19,Railsplitter,a11
+Fighter,20,Fletcher's Mitt,a14
+Sorcerer,1,Bags of Transferrence,a32
+Sorcerer,2,Brooch of Po'eur,a41
+Sorcerer,3,Gustmaster 5000,a15
+Sorcerer,4,Cloak of the Manta Ray,a16
+Sorcerer,5,Band of Projected Thought,a22
+Sorcerer,6,Ring of Frost,a12
+Sorcerer,7,The Rose Tinted Spectacles,a9
+Sorcerer,8,Soup Spoon of Impropability,a37
+Sorcerer,9,Grasps of Spell Saving,a39
+Sorcerer,10,Pickpocket's Peerless Grasps,a36
+Sorcerer,11,Broom of Flying,a23
+Sorcerer,12,Port Wand of Duality,a34
+Sorcerer,13,Ring of the Giant Slayer,a24
+Sorcerer,14,Demon Eye Amulet,a28
+Sorcerer,15,Coat of the Duelist,a27
+Sorcerer,16,Ring of Peerless Majyks,a35
+Sorcerer,17,Crest of Foresight,a42
+Sorcerer,18,Shared Pouches of Transfer,a33
+Sorcerer,19,Lucky Egg,a8
+Sorcerer,20,Ring of the Phoenix,a10
+Sorcerer,20,Ring of the Phoenix,a10
+Warlock,1,Lucky Egg,a8
+Warlock,2,Brooch of Po'eur,a41
+Warlock,3,Bags of Transferrence,a32
+Warlock,4,Greased Lightning,a6
+Warlock,5,Grasps of Spell Saving,a39
+Warlock,6,Gustmaster 5000,a15
+Warlock,7,Ring of Sweet Flips,a40
+Warlock,8,Ring of Frost,a12
+Warlock,9,Bags of Transferrence,a32
+Warlock,10,Forked Tongue,a3
+Warlock,11,Ring of the Phoenix,a10
+Warlock,12,Shared Pouches of Transfer,a33
+Warlock,13,Whisper of the Noose,a1
+Warlock,14,Midnight Candle,a31
+Warlock,15,Broom of Flying,a23
+Warlock,16,Band of Projected Thought,a22
+Warlock,17,Ring of Peerless Majyks,a35
+Warlock,18,The Rose Tinted Spectacles,a9
+Warlock,19,Demon Eye Amulet,a28
+Warlock,20,Awareness Frames,a19
